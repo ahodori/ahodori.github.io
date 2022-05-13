@@ -2,7 +2,6 @@
 layout: post
 title:  "Using Bootstrap with React"
 date:   2022-05-10 16:39:01 -0400
-categories: jekyll update
 ---
 
 Bootstrap is a toolkit combining Javascript, CSS, and other tools to create a quick and easy way to get a modern-looking website. Using vanilla Javascript and CSS, you can already access the full scope of Bootstrap's functionality; however, for React there is also a react-bootstrap library available which recasts Bootstrap's functionality in the form of React components. This blogpost will go through the differences in how vanilla and React Bootstrap are used, and some of the advantages React Bootstrap can offer in a React app.
